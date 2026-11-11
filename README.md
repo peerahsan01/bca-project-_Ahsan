@@ -41,7 +41,6 @@ s[i].grade = 'B';
 else if (s[i].average >= 70)
 s[i].grade = 'C';
 else if (s[i].average >= 60)
-Page 5
 s[i].grade = 'D';
 else
 s[i].grade = 'F';
